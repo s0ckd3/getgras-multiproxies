@@ -1,0 +1,22 @@
+{
+  "wynd:browser_id": "",
+  "wynd:user_id": "2s5THXv4mAW2d3iXMbnhCkU3nej",
+  "wynd:jwt": {
+    "type": "getExtensionInfo"
+  },
+  "wynd:status": "\"CONNECTING\"",
+  "wynd:device": null,
+  "wynd:user": "2movn",
+  "wynd:authenticated": true,
+  "wynd:settings": {
+    "theme": "dark",
+    "notifications": true
+  },
+  "wynd:popup": false,
+  "wynd:permissions": true,
+  "accessToken": "",
+  "refreshToken": "",
+  "username": "2mo.vn",
+  "email": "",
+  "isConnectButtonActive": true
+}
